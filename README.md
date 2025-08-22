@@ -1,0 +1,1 @@
+A simple Node.js + Express + EJS app that counts the total number of letters in your first and last name entered through a form.
